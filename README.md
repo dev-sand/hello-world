@@ -1,2 +1,2 @@
 # hello-world
-The start of my github journey utilizing the common project, "Hello World"
+The start of my journey with github, beginning with the famous first project for programmers... "Hello World"
